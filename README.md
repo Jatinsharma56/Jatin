@@ -1,5 +1,4 @@
-
-<!-- <h1 align="center">Hi 👋, I'm Jatin Sharma</h1>
+<h1 align="center">Hi 👋, I'm Jatin Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/@jatinsharm2448" target="blank"><img src="https://img.shields.io/twitter/follow/@jatinsharm2448?logo=twitter&style=for-the-badge" alt="@jatinsharm2448" /></a> </p>
@@ -23,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatinsharma56&show_icons=true&locale=en" alt="jatinsharma56" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinsharma56&" alt="jatinsharma56" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinsharma56&" alt="jatinsharma56" /></p>
