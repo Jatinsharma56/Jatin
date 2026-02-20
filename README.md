@@ -1,5 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Jatin Sharma</h1>
+
+
 <p align="center">
   <a href="https://twitter.com/@jatinsharm2448" target="blank">
     <img src="https://img.shields.io/twitter/follow/@jatinsharm2448?logo=twitter&style=for-the-badge" alt="@jatinsharm2448" />
@@ -49,8 +50,9 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="350"/>
   <img src="https://streak-stats.demolab.com?user=Jatinsharma56&theme=dracula&hide_border=false" height="180"/>
 </p>
+
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="600"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400"/>
 </p>
