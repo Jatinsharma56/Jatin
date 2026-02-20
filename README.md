@@ -22,12 +22,6 @@
 <img src="https://streak-stats.demolab.com?user=Jatinsharma56&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="500" alt="streak graph"  align="left"/> 
 </div>
 
-<div align="right">
-<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300">
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
-</div>
-
-
-
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
 
 
