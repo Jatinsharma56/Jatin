@@ -8,7 +8,7 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/@jatinsharm2448" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
