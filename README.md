@@ -50,9 +50,9 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jatinsharma56&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="jatinsharma56's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=jatinsharma56&theme=radical&hide_border=true&cache_seconds=86400" alt="jatinsharma56's GitHub Streak" width="49%" />
-</p>
 
-<p align="center">
+
+
   <a href="https://github.com/jatinsharma56">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jatinsharma56&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
