@@ -46,7 +46,7 @@
 ## 📊 GitHub Stats & Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinsharma56&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <a href="https://github.com/jatinsharma56"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jatinsharma56&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="jatinsharma56's GitHub Stats" /> </a>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinsharma56&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false" height="150" alt="languages graph"  />
   
