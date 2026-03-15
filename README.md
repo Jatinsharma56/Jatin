@@ -45,7 +45,7 @@
 ---
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <div align="center">
   <a href="https://github.com/jatinsharma56"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jatinsharma56&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="jatinsharma56's GitHub Stats" /> </a>
